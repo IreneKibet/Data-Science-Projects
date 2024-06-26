@@ -22,7 +22,7 @@ The project demonstrates that employees with more years of experience, advanced 
  - *Seaborn*
  - *Matplotlib*
  - *Scikit-Learn*
- - 
+
 **How to Use**:
 
  - Clone the repository
