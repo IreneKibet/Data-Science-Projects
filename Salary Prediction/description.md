@@ -1,4 +1,4 @@
-**Salary Prediction Project**
+# Salary Prediction Project
 
 This project aims to predict employee salaries based on various factors such as years of experience, job title, and education level. The analysis used a comprehensive dataset and multiple machine-learning models for accurate predictions.
 
